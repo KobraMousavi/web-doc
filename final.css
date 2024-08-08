@@ -1,0 +1,165 @@
+body {
+  background-image: url(reza.jpg);
+  background-size: contain;
+  background-attachment: fixed;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 5px;
+  border: 5px solid white;
+  border-radius: 20px;
+  padding: 8px;
+  background-image: url(free-website-background-02.jpg);
+  background-size: cover;
+}
+.navbar {
+  border: 5px solid rgb(182, 201, 13);
+  border-radius: 20px;
+  padding: 8px;
+  margin-left: 400px;
+  margin-right: 400px;
+  text-align: center;
+  font-size: 35px;
+  background-image: url(OIP1.jfif);
+  background-size: cover;
+}
+.navbar a {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  margin: 20px;
+}
+.navbar a:hover {
+  color: rgb(50, 50, 240);
+}
+.Erklären {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px solid black;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 35px;
+  background-color: aliceblue;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Erklären h2 {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 40px;
+}
+
+.Erklären p {
+  text-align: center;
+  text-align: justify;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.JavaScript {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px solid black;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 35px;
+  background-color: aliceblue;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.JavaScript h2 {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 40px;
+}
+
+.JavaScript p {
+  text-align: center;
+  text-align: justify;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.Python {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px solid black;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 35px;
+  background-color: aliceblue;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Python2 h2 {
+  font-size: 50px;
+}
+.Python p {
+  text-align: center;
+  text-align: justify;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.HTML {
+  text-align: center;
+  border-radius: 25px;
+  border: 5px solid black;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 35px;
+  background-color: aliceblue;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.HTML h2 {
+  font-size: 40px;
+}
+HTML p {
+  text-align: center;
+  text-align: justify;
+  border-radius: 25px;
+  border: 5px;
+  margin: 35px;
+  padding: 35px;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.About {
+  text-align: left;
+  border-radius: 25px;
+  border: 5px solid black;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 35px;
+  background-color: aliceblue;
+  margin-bottom: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
